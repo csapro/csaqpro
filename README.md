@@ -1,2 +1,0 @@
-# csapro
-My personal repository
